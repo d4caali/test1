@@ -1,0 +1,2 @@
+redis-cli flushall
+php¹«²â redis-cli  -h 10.28.147.164  flushall
